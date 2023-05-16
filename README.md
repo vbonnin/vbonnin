@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">Student web developer</h3>
+<h3 align="center">Web development student</h3>
 
 - 🔭 I’m currently working on [proyecto biblioteca](https://github.com/vbonnin/ProyectoBiblioteca.git)
 
