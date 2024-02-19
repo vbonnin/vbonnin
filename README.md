@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">Web development student</h3>
 
-- 🌱 I’m currently learning **PHP, Bootstrap and JavaScript**
+- 🌱 I’m currently learning **Laravel, Bootstrap and Vue**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vbonnin](https://github.com/vbonnin)
 
